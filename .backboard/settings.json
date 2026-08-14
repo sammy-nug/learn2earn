@@ -1,0 +1,11 @@
+{
+	"permissions": {
+		"allow": [
+			"apply_patch",
+			"execute(python3 hello.py:*)",
+			"web_search",
+			"fetch_url",
+			"execute(python3 -:*)"
+		]
+	}
+}
