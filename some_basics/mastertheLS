@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+ls -1p --ignore=".*" -tu | paste -sd "," -
